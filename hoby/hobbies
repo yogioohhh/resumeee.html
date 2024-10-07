@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Hobbies</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: square;
+        }
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #0879f1;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding-top: 10px;
+            border-top: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>My Hobbies</h1>
+    </header>
+
+    <section>
+        <h2>Things I Love Doing</h2>
+        <ul>
+            <li><strong>Coding</strong> - I enjoy creating web applications and learning new technologies like JavaScript frameworks and libraries.</li>
+            <li><strong>Reading</strong> - I love reading business management books and technical articles about software development.</li>
+            <li><strong>Photography</strong> - Capturing beautiful moments and nature through my lens is one of my favorite hobbies.</li>
+            <li><strong>Travelling</strong> - Exploring new places, learning about different cultures, and trying new food.</li>
+            <li><strong>Music</strong> - I like listening to various genres of music, and I sometimes play the guitar for relaxation.</li>
+        </ul>
+    </section>
+
+    <footer>
+
+
+</body>
+</html>
